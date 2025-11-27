@@ -1,0 +1,8 @@
+aabb
+____
+aaaaab
+______
+cba
+___
+bbba
+____

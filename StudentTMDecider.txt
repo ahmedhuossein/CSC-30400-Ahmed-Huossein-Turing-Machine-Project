@@ -1,0 +1,9 @@
+StartWithA,1,100,1000
+a,b
+q0,qaccept,qreject
+q0
+qaccept,qreject
+a,b,_
+q0,a,qaccept,a,S
+q0,b,qreject,b,S
+q0,_,qreject,_,S

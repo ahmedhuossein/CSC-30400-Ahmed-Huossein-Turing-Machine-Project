@@ -1,0 +1,10 @@
+SwitchAB,2,100,1000
+a,b
+q0,qaccept,qreject
+q0
+qaccept,qreject
+a,b
+a,b,_
+q0,a,_,q0,a,c,R,R
+q0,b,_,q0,b,d,R,R
+q0,_,_,qaccept,_,*,S,S
